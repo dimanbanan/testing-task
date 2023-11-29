@@ -1,0 +1,8 @@
+[hosts]
+master.master-node ansible_host=158.160.51.79
+
+[workers]
+  worker-node-1 ansible_host=130.193.36.189
+worker-node-2 ansible_host=158.160.35.201
+worker-node-3 ansible_host=158.160.38.198
+worker-node-4 ansible_host=51.250.72.80
